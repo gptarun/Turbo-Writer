@@ -1,0 +1,1 @@
+Project in this folder working absolutely fine. Everything including coloring of text field on typing mistake to congratulating user on completing the paragraph. Now there is need to test the project in multiplayer mode only.
